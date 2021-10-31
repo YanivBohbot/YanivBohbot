@@ -1,6 +1,6 @@
 ### Hello World, I'm Yaniv Bohbot  👋
 
- <img align="right" alt="GIF" src="https://github.com/YanivBohbot/YanivBohbot/blob/main/yaniv.gif?raw=true" width="500" height="320" />
+ <img align="right" alt="GIF" src="https://github.com/YanivBohbot/YanivBohbot/blob/main/yaniv.gif?raw=true" width="300" height="320" />
 
 
 ## I'm a Junior Developer  to aPart with you on awesome Projects !!
