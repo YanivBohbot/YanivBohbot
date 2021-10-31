@@ -4,7 +4,7 @@
 
 
 ## I'm a Junior Developer looking to be on awesome Projects !!
-- ✍ You can find my projects here [portfolio]
+- ✍ You can find my portfolio on my personal website for more information [portfolio]
 - 🔭 I’m currently working on my Personal Project.
 - 🌱 I’m currently learning Angular8+
 - 👯 I’m looking to collaborate on Open Source Projects
@@ -46,6 +46,5 @@
 
 </br>
 
-[website]: https://yanivbohbot.github.io/Resume-On-Line-Frontend/
 [linkedin]: https://www.linkedin.com/in/yaniv-bohbot/
-[portfolio]: https://github.com/YanivBohbot?tab=repositories
+[portfolio]: https://yanivbohbot.github.io/Resume-On-Line-Frontend/
