@@ -39,4 +39,4 @@
 
 [website]: https://yanivbohbot.github.io/Resume-On-Line-Frontend/
 [linkedin]: https://www.linkedin.com/in/yaniv-bohbot/
-[portfolio]: https://YanivBohbot.github.io/profile/
+[portfolio]: https://github.com/YanivBohbot?tab=repositories
