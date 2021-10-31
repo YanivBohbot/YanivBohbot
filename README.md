@@ -8,8 +8,8 @@
 - 🔭 I’m currently working on my Personal Project.
 - 🌱 I’m currently learning Angular8+
 - 👯 I’m looking to collaborate on Open Source Projects
-- 💬 Ask me about ... Anything
-- 😄 Pronouns: She/Her
+- 🚀 Always ready to collaborate for Dev Experiments
+- 🎯 Life Hack: "Explore 🔥 and Explode 💣 with knowledge"
 - ⚡ Fun fact: I speak 4 languages ( English, French, Hebrew , Spanish)
 
 
