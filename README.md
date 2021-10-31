@@ -38,21 +38,6 @@
 
 <br />
 <br />
----
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="Yaniv's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=YanivBohbot&show_icons=true&hide_border=true" />
-
-</details>
-
-<details>
-  <summary>:zap: Most Used Languages</summary>
-
-<img align="left" alt="Yaniv's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YanivBohbot" />
-
-</details>
 
 [website]: https://yanivbohbot.github.io/Resume-On-Line-Frontend/
 [linkedin]: https://www.linkedin.com/in/yaniv-bohbot/
