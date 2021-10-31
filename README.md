@@ -1,16 +1,16 @@
-### Hello World, I'm Anna  👋
+### Hello World, I'm Yaniv Bohbot  👋
 
  <img align="right" alt="GIF" src="https://github.com/YanivBohbot/YanivBohbot/blob/main/yaniv.gif?raw=true" width="500" height="320" />
 
 
-## I'm a Wife, Mother, Developer, Creator, and Mentor!!
+## I'm a Junior Developer Hunger to learn new Tech !!
 - ✍ You can find my projects here [portfolio]
-- 🔭 I’m currently working on my first book.
-- 🌱 I’m currently learning React Native and Azure
-- 👯 I’m looking to collaborate on open source
+- 🔭 I’m currently working on my Personal Project.
+- 🌱 I’m currently learning Angular8+
+- 👯 I’m looking to collaborate on Open Source Projects
 - 💬 Ask me about ... Anything
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I speak 4 languages ( English, Spanish, Romanian, Russian)
+- ⚡ Fun fact: I speak 4 languages ( English, French, Hebrew , Spanish)
 
 
 ### Talk with me, I am kinda awesome:
