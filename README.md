@@ -38,11 +38,6 @@
 </div>
 <br />
 
-
-<summary>📈 My GitHub Stats</summary>
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=YanivBohbot&show_icons=true&theme=gotham" alt="YanivBohbot" />
-
  ## Github Stats  
 <table><tr><td valign="top" width="50%">
 
