@@ -3,7 +3,7 @@
  <img align="right" alt="GIF" src="https://github.com/YanivBohbot/YanivBohbot/blob/main/yaniv.gif?raw=true" width="400" height="320" />
 
 
-## I'm a Junior Developer looking to be on awesome Projects !!
+## I'm a Junior Developer looking to work on awesome Projects !!
 - ✍ You can find my portfolio on my personal website for more information [portfolio]
 - 🔭 I’m currently working on my Personal Project.
 - 🌱 I’m currently learning Angular8+
