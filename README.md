@@ -3,10 +3,10 @@
  <img align="right" alt="GIF" src="https://github.com/YanivBohbot/YanivBohbot/blob/main/yaniv.gif?raw=true" width="400" height="320" />
 
 
-## I'm a Junior Developer looking to work on awesome Projects !!
+## I'm a Software Developer looking to work on awesome Projects !!
 - ✍ You can find my portfolio on my personal website for more information [portfolio]
 - 🔭 I’m currently working on my Personal Project.
-- 🌱 I’m currently learning Angular8+
+- 🌱 I’m currently learning Angular12+ and .NetCore 5.
 - 👯 I’m looking to collaborate on Open Source Projects
 - 🚀 Always ready to collaborate for Dev Experiments
 - 🎯 Life Hack: "Explore 🔥 and Explode 💣 with knowledge"
