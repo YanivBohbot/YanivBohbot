@@ -11,7 +11,7 @@
 - 🚀 Always ready to collaborate for Dev Experiments
 - 🎯 Life Hack: "Explore 🔥 and Explode 💣 with knowledge"
 - ⚡ Fun fact: I speak 4 languages ( English, French, Hebrew , Spanish)
-[![AWS Certified Cloud Practitioner]([https://d1.awsstatic.com/certification/badges/AWS-Certified-Cloud-Practitioner_badge_150x150.17da917fbddc5383838d9f8209d2030c8d99f31e.png]]([https://www.credly.com/badges/09358d00-9150-4092-afea-cac2dbbe58de/public_url)])
+[![AWS Certified Cloud Practitioner]([https://d1.awsstatic.com/certification/badges/AWS-Certified-Cloud-Practitioner_badge_150x150.17da917fbddc5383838d9f8209d2030c8d99f31e.png])]([https://www.credly.com/badges/09358d00-9150-4092-afea-cac2dbbe58de/public_url)])
 ### Talk with me, I am kinda awesome:
 [<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
