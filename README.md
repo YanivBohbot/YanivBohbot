@@ -11,8 +11,8 @@
 - 🎯 Life Hack: "Explore 🔥 and Explode 💣 with knowledge"
 - ⚡Awareded by AWS:
 [![AWS Certified Cloud Practitioner](https://d1.awsstatic.com/certification/badges/AWS-Certified-Cloud-Practitioner_badge_150x150.17da917fbddc5383838d9f8209d2030c8d99f31e.png)](https://www.credly.com/badges/09358d00-9150-4092-afea-cac2dbbe58de/public_url)
-[![AWS Certified Solutions Architect – Associate](C:\Users\user\Downloads\aws-certified-solutions-architect-associate.png)](https://www.credly.com/badges/ac980c2d-204d-434a-b537-d5c08f6e3694/public_url))
-
+[![]()]())
+[![AWS Certified Solutions Architect – Associate](https://images.credly.com/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)](https://www.credly.com/badges/ac980c2d-204d-434a-b537-d5c08f6e3694/public_url)
 
 
 
